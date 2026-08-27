@@ -1,16 +1,35 @@
-## Hi there 👋
+# TobeChukwu
 
-<!--
-**tobechi-dev/tobechi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+I build software.
 
-Here are some ideas to get you started:
+Mostly backend stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sometimes I break it.
+
+Then I fix it.
+
+That's pretty much it.
+```
+
+### Stack
+
+`TypeScript` `JavaScript` `Go` `Node.js` `Fastify` `PostgreSQL` `MongoDB` `Redis`
+
+### Building
+
+Things I think should exist.
+
+### Learning
+
+Things I don't understand yet.
+
+### Breaking
+
+Things I probably shouldn't touch.
+
+---
+
+**Code. Build. Break. Learn. Repeat.**
+
+[GitHub](https://github.com/TobeChukwu278) · [X](https://x.com/TAGdev278) · [LinkedIn](https://www.linkedin.com/in/tobechukwu-ejiofor-493925316/)
